@@ -7,7 +7,7 @@ This directory contains the code and solutions for Assignment 2 of the mlcourse.
 
 ## Contents
 
-* [Jupyter Notebook Solution](https://www.google.com/search?q=assignment-2.ipynb)
+* [Jupyter Notebook Solution](assignment-2.ipynb)
 
 ## Key Topics & Questions Covered
 
