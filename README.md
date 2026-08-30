@@ -28,6 +28,12 @@ Each assignment folder has its own README with a detailed breakdown of the topic
 
 pandas, numpy, scikit-learn, xgboost, statsmodels, Prophet, matplotlib, seaborn, scipy
 
+## Setup
+
+```bash
+pip install -r requirements.txt
+```
+
 ## About
 
 Working through this course to build a solid, hands-on foundation in machine learning — from pandas basics to gradient boosting and real Kaggle competitions.

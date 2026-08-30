@@ -1,0 +1,25 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+jupyter
+
+# Assignment 3 (Decision Trees)
+pydotplus
+ipywidgets
+
+# Assignment 8 (SGD Regressor)
+tqdm
+
+# Assignment 9 (Time Series)
+prophet
+statsmodels
+
+# Assignment 10 (Gradient Boosting)
+xgboost
+
+# Kaggle competitions (Assignments 6 & 10)
+kaggle
+kagglehub
